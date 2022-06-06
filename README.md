@@ -29,7 +29,7 @@
 ### 4. Prompt engineering running instructions
 
 First, follow [DATASETS.md](external/CoOp/DATASETS.md) to install the datasets.
-Create the required enviromnet with 
+Create the required environment with 
 ```
 conda env create -f external/CoOp/dassl_env.yml
 conda activate dassl
